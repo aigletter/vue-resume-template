@@ -5,9 +5,9 @@
             "faIcon": "fa-regular fa-user",
             "locales": {
                 "en": {"nav_label": "Home"},
-                "de": {"nav_label": "Startseite"},
-                "uk": {"nav_label": "Головна"},
-                "ru": {"nav_label": "Главная"}
+                "es": {"nav_label": "Inicio"},
+                "fr": {"nav_label": "Accueil"},
+                "zh": {"nav_label": "主页"}
             }
         },
 
@@ -16,9 +16,9 @@
             "faIcon": "fa-regular fa-clock",
             "locales": {
                 "en": {"nav_label": "Background"},
-                "de": {"nav_label": "Hintergrund"},
-                "uk": {"nav_label": "Досвід"},
-                "ru": {"nav_label": "Опыт"}
+                "es": {"nav_label": "Historial"},
+                "fr": {"nav_label": "Historique"},
+                "zh": {"nav_label": "背景"}
             }
         },
 
@@ -27,9 +27,9 @@
             "faIcon": "fa-regular fa-folder-open",
             "locales": {
                 "en": {"nav_label": "Showcase"},
-                "de": {"nav_label": "Projekte"},
-                "uk": {"nav_label": "Проєкти"},
-                "ru": {"nav_label": "Проекты"}
+                "es": {"nav_label": "Vitrina"},
+                "fr": {"nav_label": "Vitrine"},
+                "zh": {"nav_label": "展示"}
             }
         },
 
@@ -38,9 +38,9 @@
             "faIcon": "fa-regular fa-object-ungroup",
             "locales": {
                 "en": {"nav_label": "More"},
-                "de": {"nav_label": "Mehr"},
-                "uk": {"nav_label": "Ще"},
-                "ru": {"nav_label": "Ещё"}
+                "es": {"nav_label": "Más"},
+                "fr": {"nav_label": "Plus"},
+                "zh": {"nav_label": "查看更多"}
             }
         }
     ]

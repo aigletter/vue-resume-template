@@ -10,6 +10,7 @@
 
         <ArticleTimelineItemContent v-if="item"
                                     :title="localize(item.locales, 'title')"
+                                    :dates="props.item.dates?.map((dateItem) => localizeDateItem(dateItem))"
                                     :formatted-date-start="localizeDate(props.item.dateStart)"
                                     :formatted-date-end="localizeDate(props.item.dateEnd)"
                                     :province="localize(item.locales, 'province', true)"
@@ -39,6 +40,13 @@ const localize = inject("localize")
 
 /** @type {Function} */
 const localizeDate = inject("localizeDate")
+
+const localizeDateItem = (dateItem) => {
+  return {
+    dateStart: localizeDate(dateItem.dateStart),
+    dateEnd: localizeDate(dateItem.dateEnd)
+  }
+}
 </script>
 
 <style lang="scss" scoped>

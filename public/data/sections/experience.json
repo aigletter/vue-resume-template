@@ -11,415 +11,555 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2015, "month": 1},
-                    "dateEnd": {"year": 2017, "month": 12},
+                    "dateStart": {"year": 2013, "month": 1},
+                    "dateEnd": {"year": 2014, "month": 1},
                     "img": "images/places/logo-ux-studio.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
 
                     "locales": {
                         "en": {
-                            "title": "UX Designer",
-                            "description": "Contributed to designing <strong>intuitive</strong> and <strong>user-friendly</strong> web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
+                            "title": "Web Developer",
+                            "description": "Full-stack freelance projects, primarily using CMS WordPress and Joomla.",
                             "list": {
-                                "title": "Key Responsibilities",
+                                "title": "Key Responsibilities:",
                                 "items": [
-                                    "Conducted <strong>user research</strong> to gather insights and inform design decisions.",
-                                    "Created wireframes, prototypes, and high-fidelity designs using <strong>Figma.</strong>",
-                                    "Collaborated with developers to ensure <strong>design feasibility</strong> and implementation.",
-                                    "Conducted <strong>usability testing</strong> to validate designs and gather feedback."
+                                    "Developed and maintained <strong>full-stack web applications</strong> with PHP, JavaScript, WordPress, and Joomla.",
+                                    "Built <strong>custom themes and plugins</strong> and integrated third-party APIs.",
+                                    "Optimized <strong>performance, responsiveness</strong>, and cross-browser compatibility."
                                 ]
                             },
-                            "province": "Hannover",
-                            "country": "Germany",
-                            "institution": "UX Masters Studio",
-                            "tags": ["Figma", "Wireframing", "Prototyping", "Responsive Design", "User Research"]
+                            "province": null,
+                            "country": "Ukraine",
+                            "institution": "Freelance",
+                            "tags": ["PHP", "Javascript", "Wordpress", "Joomla"]
                         },
 
-                        "es": {
-                            "title": "Diseñador de UX",
-                            "description": "Contribuí al diseño de interfaces de aplicaciones web <strong>intuitivas</strong> y <strong>fáciles de usar</strong>, creando experiencias de usuario atractivas y fluidas. Colaboré estrechamente con equipos multifuncionales y partes interesadas para garantizar que los diseños estuvieran alineados con los objetivos comerciales y las necesidades de los usuarios.",
+                        "de": {
+                            "title": "Webentwickler",
+                            "description": "Freelance-Arbeit als Full-Stack-Entwickler, hauptsächlich mit den CMS WordPress und Joomla.",
                             "list": {
-                                "title": "Responsabilidades Clave",
+                                "title": "Hauptverantwortlichkeiten:",
                                 "items": [
-                                    "Realicé <strong>investigación de usuarios</strong> para recopilar información y tomar decisiones de diseño.",
-                                    "Creé wireframes, prototipos y diseños de alta fidelidad utilizando <strong>Figma.</strong>",
-                                    "Colaboré con desarrolladores para garantizar la <strong>viabilidad del diseño</strong> y su implementación.",
-                                    "Realicé <strong>pruebas de usabilidad</strong> para validar los diseños y recopilar comentarios."
+                                    "Entwicklung und Wartung von <strong>Full-Stack-Webanwendungen</strong> mit PHP, JavaScript, WordPress und Joomla.",
+                                    "Erstellung von <strong>kundenspezifischen Themes und Plugins</strong> und Integration von Drittanbieter-APIs.",
+                                    "Optimierung von <strong>Performance, Responsivität</strong> und Browserkompatibilität."
                                 ]
                             },
-                            "province": "Hannover",
-                            "country": "Alemania",
-                            "institution": "UX Masters Studio",
-                            "tags": ["Figma", "Prototipado", "Diseño Responsivo", "Investigación de Usuarios", "Wireframing"]
+                            "province": null,
+                            "country": "Ukraine",
+                            "institution": "Freiberuflich",
+                            "tags": ["PHP", "Javascript", "Wordpress", "Joomla"]
                         },
 
-                        "fr": {
-                            "title": "Designer UX",
-                            "description": "A contribué à la conception d'interfaces d'applications web <strong>intuitives</strong> et <strong>conviviales</strong>, créant des expériences utilisateur engageantes et fluides. A collaboré étroitement avec des équipes interfonctionnelles et des parties prenantes pour garantir que les conceptions soient alignées sur les objectifs commerciaux et les besoins des utilisateurs.",
+                        "uk": {
+                            "title": "Веб розробник",
+                            "description": "Робота на фрілансі як фулстек-розробник, переважно з CMS WordPress та Joomla.",
                             "list": {
-                                "title": "Responsabilités Clés",
+                                "title": "Основні обов'язки:",
                                 "items": [
-                                    "A mené des <strong>recherches utilisateur</strong> pour recueillir des informations et éclairer les décisions de conception.",
-                                    "A créé des maquettes, des prototypes et des designs haute-fidélité en utilisant <strong>Figma.</strong>",
-                                    "A collaboré avec les développeurs pour garantir la <strong>faisabilité du design</strong> et sa mise en œuvre.",
-                                    "A réalisé des <strong>tests d'utilisabilité</strong> pour valider les conceptions et recueillir des retours."
+                                    "Розробка та підтримка <strong>full-stack веб-додатків</strong> на PHP, JavaScript, WordPress та Joomla.",
+                                    "Створення <strong>кастомних тем та плагінів</strong> та інтеграція сторонніх API.",
+                                    "Оптимізація <strong>продуктивності, адаптивності</strong> та сумісності з різними браузерами."
                                 ]
                             },
-                            "province": "Hanovre",
-                            "country": "Allemagne",
-                            "institution": "UX Masters Studio",
-                            "tags": ["Figma", "Maquettes", "Prototypage", "Design Responsive", "Recherche Utilisateur"]
+
+                            "province": null,
+                            "country": "Україна",
+                            "institution": "Фріланс",
+                            "tags": ["PHP", "Javascript", "Wordpress", "Joomla"]
                         },
 
-                        "zh": {
-                            "title": "用户体验设计师",
-                            "description": "参与设计直观且用户友好的网络应用界面，创造引人入胜且无缝的用户体验。与跨职能团队和利益相关者紧密合作，确保设计与业务目标和用户需求保持一致。",
+                        "ru": {
+                            "title": "Веб разработчик",
+                            "description": "Работа на фрилансе как фулстек-разработчик, преимущественно с CMS WordPress и Joomla.",
                             "list": {
-                                "title": "主要职责",
+                                "title": "Основные обязанности:",
                                 "items": [
-                                    "进行用户研究以收集见解并指导设计决策。",
-                                    "使用Figma创建线框图、原型和高保真设计。",
-                                    "与开发人员合作，确保设计的可行性和实施。",
-                                    "进行可用性测试以验证设计并收集反馈。"
+                                    "Разработка и поддержка <strong>full-stack веб-приложений</strong> на PHP, JavaScript, WordPress и Joomla.",
+                                    "Создание <strong>кастомных тем и плагинов</strong> и интеграция сторонних API.",
+                                    "Оптимизация <strong>производительности, адаптивности</strong> и кросс-браузерной совместимости."
                                 ]
                             },
-                            "province": "汉诺威",
-                            "country": "德国",
-                            "institution": "UX Masters Studio",
-                            "tags": ["Figma", "线框图", "原型设计", "响应式设计", "用户研究"]
+
+                            "province": null,
+                            "country": "Украина",
+                            "institution": "Фриланс",
+                            "tags": ["PHP", "Javascript", "Wordpress", "Joomla"]
                         }
                     }
                 },
 
                 {
                     "id": 2,
-                    "dateStart": {"year": 2018, "month": 1},
-                    "dateEnd": {"year": 2020, "month": 8},
+                    "dateStart": {"year": 2014, "month": 1},
+                    "dateEnd": {"year": 2017, "month": 1},
                     "img": "images/places/logo-adobe.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
-
                     "locales": {
                         "en": {
-                            "title": "Senior UI/UX Designer",
-                            "description": "Led the design of innovative user interfaces and experiences for <strong>Adobe's flagship products</strong>, focusing on data-driven design principles. Collaborated with product managers and engineers to create intuitive and visually appealing designs that enhance user engagement and satisfaction.",
+                            "title": "Web Developer",
+                            "description": "Participated in the design and development of various web projects using Laravel, Yii2, and MySQL; also worked with CMS platforms such as WordPress, Joomla, and Magento.",
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "Developed high-fidelity prototypes and wireframes using <strong>Figma</strong> and <strong>Adobe XD</strong>.",
-                                    "Conducted <strong>user testing</strong> and research to inform design decisions.",
-                                    "Collaborated with <strong>cross-functional teams</strong> to ensure design consistency and quality.",
-                                    "<strong>Mentored junior designers</strong> in best practices and design methodologies."
+                                    "Developed web applications and modules using PHP, Laravel, Yii2, and MySQL.",
+                                    "Built and maintained websites on WordPress, Joomla, and Magento platforms.",
+                                    "Implemented front-end functionality using JavaScript, HTML, and CSS.",
+                                    "Collaborated with other developers on code reviews and project planning."
                                 ]
                             },
-                            "province": "California",
-                            "country": "US",
-                            "institution": "Adobe",
-                            "tags": ["Figma", "Adobe XD", "Sketch", "Data-Driven Design"]
+                            "province": "Ternopil",
+                            "country": "Ukraine",
+                            "institution": "Itimum",
+                            "tags": ["PHP", "JavaScript", "MySQL", "Laravel", "Yii2", "WordPress", "Joomla", "Magento"]
                         },
-
-                        "es": {
-                            "title": "Designer Senior UI/UX",
-                            "description": "Lideré el diseño de interfaces de usuario innovadoras y experiencias para los <strong>productos insignia de Adobe</strong>, enfocándome en principios de diseño basados en datos. Colaboré con gerentes de producto e ingenieros para crear diseños intuitivos y visualmente atractivos que mejoren el compromiso y la satisfacción del usuario.",
+                        "de": {
+                            "title": "Webentwickler",
+                            "description": "Mitwirkung an Design und Entwicklung von Webprojekten verschiedener Komplexität mit Laravel, Yii2 und MySQL; zudem Arbeit mit CMS wie WordPress, Joomla und Magento.",
                             "list": {
-                                "title": "Responsabilidades Clave:",
+                                "title": "Hauptverantwortlichkeiten:",
                                 "items": [
-                                    "Desarrollé prototipos y wireframes de alta fidelidad utilizando <strong>Figma</strong> y <strong>Adobe XD</strong>.",
-                                    "Realicé <strong>pruebas de usuario</strong> e investigación para informar las decisiones de diseño.",
-                                    "Colaboré con equipos <strong>multifuncionales</strong> para garantizar la consistencia y calidad del diseño.",
-                                    "<strong>Mentoricé a diseñadores junior</strong> en mejores prácticas y metodologías de diseño."
+                                    "Entwicklung von Webanwendungen und Modulen mit PHP, Laravel, Yii2 und MySQL.",
+                                    "Aufbau und Pflege von Webseiten auf WordPress, Joomla und Magento.",
+                                    "Implementierung von Frontend-Funktionalitäten mit JavaScript, HTML und CSS.",
+                                    "Zusammenarbeit mit anderen Entwicklern bei Code-Reviews und Projektplanung."
                                 ]
                             },
-                            "province": "California",
-                            "country": "EE. UU.",
-                            "institution": "Adobe",
-                            "tags": ["Figma", "Adobe XD", "Sketch", "Diseño Basado en Datos"]
+                            "province": "Ternopil",
+                            "country": "Ukraine",
+                            "institution": "Itimum",
+                            "tags": ["PHP", "JavaScript", "MySQL", "Laravel", "Yii2", "WordPress", "Joomla", "Magento"]
                         },
-
-                        "fr": {
-                            "title": "Designer UI/UX Senior",
-                            "description": "A dirigé la conception d'interfaces utilisateur innovantes et d'expériences pour les <strong>produits phares d'Adobe</strong>, en mettant l'accent sur les principes de conception basés sur les données. A collaboré avec des chefs de produit et des ingénieurs pour créer des designs intuitifs et visuellement attrayants qui améliorent l'engagement et la satisfaction des utilisateurs.",
+                        "uk": {
+                            "title": "Веб розробник",
+                            "description": "Приймав участь у проектуванні та розробці проектів різної складності на фреймворках Laravel та Yii2 з базою даних MySQL; також працював із CMS такими як WordPress, Joomla та Magento.",
                             "list": {
-                                "title": "Responsabilités Clés:",
+                                "title": "Основні обов'язки:",
                                 "items": [
-                                    "A développé des prototypes et des maquettes haute-fidélité en utilisant <strong>Figma</strong> et <strong>Adobe XD</strong>.",
-                                    "A mené des <strong>tests utilisateurs</strong> et des recherches pour éclairer les décisions de conception.",
-                                    "A collaboré avec des équipes <strong>interfonctionnelles</strong> pour garantir la cohérence et la qualité du design.",
-                                    "<strong>A encadré des designers juniors</strong> sur les meilleures pratiques et méthodologies de conception."
+                                    "Розробка веб-застосунків і модулів з використанням PHP, Laravel, Yii2 та MySQL.",
+                                    "Створення та підтримка вебсайтів на WordPress, Joomla та Magento.",
+                                    "Реалізація фронтенд-функціоналу за допомогою JavaScript, HTML та CSS.",
+                                    "Співпраця з іншими розробниками під час рев’ю коду та планування проектів."
                                 ]
                             },
-                            "province": "Californie",
-                            "country": "États-Unis",
-                            "institution": "Adobe",
-                            "tags": ["Figma", "Adobe XD", "Sketch", "Conception Basée sur les Données"]
+                            "province": "Ternopil",
+                            "country": "Ukraine",
+                            "institution": "Itimum",
+                            "tags": ["PHP", "JavaScript", "MySQL", "Laravel", "Yii2", "WordPress", "Joomla", "Magento"]
                         },
-
-                        "zh": {
-                            "title": "高级UI/UX设计师",
-                            "description": "领导设计创新的用户界面和体验，专注于数据驱动的设计原则，服务于Adobe的旗舰产品。与产品经理和工程师合作，创建直观且视觉吸引力强的设计，以增强用户参与度和满意度。",
+                        "ru": {
+                            "title": "Веб разработчик",
+                            "description": "Принимал участие в проектировании и разработке проектов различной сложности на фреймворках Laravel и Yii2 с базой данных MySQL; также работал с CMS такими как WordPress, Joomla и Magento.",
                             "list": {
-                                "title": "主要职责:",
+                                "title": "Основные обязанности:",
                                 "items": [
-                                    "使用Figma和Adobe XD开发高保真原型和线框图。",
-                                    "进行用户测试和研究以指导设计决策。",
-                                    "与跨职能团队合作，确保设计的一致性和质量。",
-                                    "指导初级设计师最佳实践和设计方法论。"
+                                    "Разработка веб-приложений и модулей с использованием PHP, Laravel, Yii2 и MySQL.",
+                                    "Создание и поддержка вебсайтов на WordPress, Joomla и Magento.",
+                                    "Реализация фронтенд-функционала с помощью JavaScript, HTML и CSS.",
+                                    "Сотрудничество с другими разработчиками при код-ревью и планировании проектов."
                                 ]
                             },
-                            "province": "加利福尼亚州",
-                            "country": "美国",
-                            "institution": "Adobe",
-                            "tags": ["Figma", "Adobe XD", "Sketch", "数据驱动设计"]
+                            "province": "Ternopil",
+                            "country": "Ukraine",
+                            "institution": "Itimum",
+                            "tags": ["PHP", "JavaScript", "MySQL", "Laravel", "Yii2", "WordPress", "Joomla", "Magento"]
                         }
                     }
                 },
 
                 {
                     "id": 3,
-                    "dateStart": {"year": 2020, "month": 9},
-                    "dateEnd": {"year": 2022, "month": 9},
-                    "img": "images/places/logo-apple.png",
+                    "dateStart": {"year": 2017, "month": 1},
+                    "dateEnd": {"year": 2019, "month": 1},
+                    "img": "images/places/logo-tentorg.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
-
                     "locales": {
                         "en": {
-                            "title": "Lead UX Designer",
-                            "description": "Led the design team in creating <strong>innovative user experiences</strong> for Apple's software products, focusing on enhancing usability and accessibility. Worked closely with product managers and engineers to develop design solutions that meet user needs and business objectives.",
+                            "title": "Team Lead",
+                            "description": "Led the backend team at Tentorg and participated in active development, including code reviews, sprint planning, and task delegation.",
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "Designed user interfaces and experiences for <strong>Apple's software products</strong>.",
-                                    "Conducted <strong>user research</strong> and usability testing to inform design decisions.",
-                                    "Collaborated with <strong>cross-functional teams</strong> to ensure design feasibility and implementation.",
-                                    "<strong>Mentored junior designers</strong> in UX design best practices."
+                                    "Managed and mentored backend developers to ensure code quality.",
+                                    "Performed code reviews and provided constructive feedback.",
+                                    "Planned sprints and delegated tasks according to team strengths.",
+                                    "Collaborated with cross-functional teams using Agile and Scrum methodologies."
                                 ]
                             },
-                            "province": "California",
-                            "country": "US",
-                            "institution": "Apple",
-                            "tags": ["Sketch", "Adobe XD", "InVision", "Design Strategy", "Cross-Functional Collaboration"]
+                            "province": "Moscow",
+                            "country": "Russia",
+                            "institution": "Tentorg",
+                            "tags": ["PHP", "Yii2", "MySQL", "Sphinx", "Elasticsearch", "Redis", "RabbitMQ", "XMPP", "REST", "Agile", "Scrum"]
                         },
-
-                        "es": {
-                            "title": "Designer UX Principal",
-                            "description": "Lideré el equipo de diseño en la creación de <strong>experiencias de usuario innovadoras</strong> para los productos de software de Apple, enfocándome en mejorar la usabilidad y accesibilidad. Trabajé estrechamente con gerentes de producto e ingenieros para desarrollar soluciones de diseño que satisfagan las necesidades del usuario y los objetivos comerciales.",
+                        "de": {
+                            "title": "Teamleiter",
+                            "description": "Leitete das Backend-Team bei Tentorg und war aktiv an der Entwicklung beteiligt, einschließlich Code-Reviews, Sprint-Planung und Aufgabenverteilung.",
                             "list": {
-                                "title": "Responsabilidades Clave:",
+                                "title": "Hauptverantwortlichkeiten:",
                                 "items": [
-                                    "Diseñé interfaces de usuario y experiencias para los <strong>productos de software de Apple</strong>.",
-                                    "Realicé <strong>investigación de usuarios</strong> y pruebas de usabilidad para informar las decisiones de diseño.",
-                                    "Colaboré con equipos <strong>multifuncionales</strong> para garantizar la viabilidad del diseño y su implementación.",
-                                    "<strong>Mentoricé a diseñadores junior</strong> en mejores prácticas de diseño UX."
+                                    "Führte und betreute Backend-Entwickler zur Sicherstellung der Codequalität.",
+                                    "Durchführung von Code-Reviews und konstruktives Feedback.",
+                                    "Planung von Sprints und Zuweisung von Aufgaben entsprechend den Stärken des Teams.",
+                                    "Zusammenarbeit mit funktionsübergreifenden Teams nach Agile- und Scrum-Methoden."
                                 ]
                             },
-                            "province": "California",
-                            "country": "EE. UU.",
-                            "institution": "Apple",
-                            "tags": ["Sketch", "Adobe XD", "InVision", "Estrategia de Diseño", "Colaboración Multifuncional"]
+                            "province": "Moskau",
+                            "country": "Russland",
+                            "institution": "Tentorg",
+                            "tags": ["PHP", "Yii2", "MySQL", "Sphinx", "Elasticsearch", "Redis", "RabbitMQ", "XMPP", "REST", "Agile", "Scrum"]
                         },
-
-                        "fr": {
-                            "title": "Designer UX Principal",
-                            "description": "A dirigé l'équipe de conception dans la création d'<strong>expériences utilisateur innovantes</strong> pour les produits logiciels d'Apple, en mettant l'accent sur l'amélioration de l'utilisabilité et de l'accessibilité. A travaillé en étroite collaboration avec des chefs de produit et des ingénieurs pour développer des solutions de conception répondant aux besoins des utilisateurs et aux objectifs commerciaux.",
+                        "uk": {
+                            "title": "Тімлід",
+                            "description": "Керував бекенд-командою в Tentorg та активно брав участь у розробці, включаючи код-рев’ю, планування спринтів та делегування завдань.",
                             "list": {
-                                "title": "Responsabilités Clés:",
+                                "title": "Основні обов'язки:",
                                 "items": [
-                                    "A conçu des interfaces utilisateur et des expériences pour les <strong>produits logiciels d'Apple</strong>.",
-                                    "A mené des <strong>recherches utilisateur</strong> et des tests d'utilisabilité pour éclairer les décisions de conception.",
-                                    "A collaboré avec des équipes <strong>interfonctionnelles</strong> pour garantir la faisabilité du design et sa mise en œuvre.",
-                                    "<strong>A encadré des designers juniors</strong> sur les meilleures pratiques de conception UX."
+                                    "Керував та наставляв бекенд-розробників для забезпечення якості коду.",
+                                    "Проводив код-рев’ю та давав конструктивні зауваження.",
+                                    "Планував спринти та розподіляв завдання відповідно до сильних сторін команди.",
+                                    "Співпрацював з крос-функціональними командами за методологіями Agile та Scrum."
                                 ]
                             },
-                            "province": "Californie",
-                            "country": "États-Unis",
-                            "institution": "Apple",
-                            "tags": ["Sketch", "Adobe XD", "InVision", "Stratégie de Conception", "Collaboration Interfonctionnelle"]
+                            "province": "Москва",
+                            "country": "Росія",
+                            "institution": "Tentorg",
+                            "tags": ["PHP", "Yii2", "MySQL", "Sphinx", "Elasticsearch", "Redis", "RabbitMQ", "XMPP", "REST", "Agile", "Scrum"]
                         },
-
-                        "zh": {
-                            "title": "首席用户体验设计师",
-                            "description": "领导设计团队为Apple的软件产品创造创新的用户体验，专注于提高可用性和无障碍性。与产品经理和工程师紧密合作，开发满足用户需求和业务目标的设计解决方案。",
+                        "ru": {
+                            "title": "Тимлид",
+                            "description": "Руководил бекенд-командой в Tentorg и активно участвовал в разработке, включая код-ревью, планирование спринтов и распределение задач.",
                             "list": {
-                                "title": "主要职责:",
+                                "title": "Основные обязанности:",
                                 "items": [
-                                    "为Apple的软件产品设计用户界面和体验。",
-                                    "进行用户研究和可用性测试以指导设计决策。",
-                                    "与跨职能团队合作，确保设计的可行性和实施。",
-                                    "指导初级设计师用户体验设计最佳实践。"
+                                    "Управлял и наставлял бекенд-разработчиков для обеспечения качества кода.",
+                                    "Проводил код-ревью и давал конструктивную обратную связь.",
+                                    "Планировал спринты и распределял задачи согласно сильным сторонам команды.",
+                                    "Сотрудничал с кросс-функциональными командами по методологиям Agile и Scrum."
                                 ]
                             },
-                            "province": "加利福尼亚州",
-                            "country": "美国",
-                            "institution": "Apple",
-                            "tags": ["Sketch", "Adobe XD", "InVision", "设计战略", "跨职能合作"]
+                            "province": "Москва",
+                            "country": "Россия",
+                            "institution": "Tentorg",
+                            "tags": ["PHP", "Yii2", "MySQL", "Sphinx", "Elasticsearch", "Redis", "RabbitMQ", "XMPP", "REST", "Agile", "Scrum"]
                         }
                     }
                 },
 
                 {
                     "id": 4,
-                    "dateStart": {"year": 2022, "month": 10},
-                    "dateEnd": {"year": 2024, "month": 9},
-                    "img": "images/places/logo-coursera.png",
+                    "dateStart": {"year": 2019, "month": 1},
+                    "dateEnd": {"year": 2020, "month": 1},
+                    "img": "images/places/logo-investors.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
-
                     "locales": {
                         "en": {
-                            "title": "UX Design Full-Time Professor",
-                            "description": "Taught advanced <strong>UX design principles</strong> and <strong>practices</strong> to undergraduate and graduate students, focusing on real-world applications and industry standards. Developed course materials and assignments that challenged students to think critically and creatively about user experience design.",
+                            "title": "PHP Developer",
+                            "description": "Performed backend development and participated in architectural planning for scalable web applications.",
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "Designed and delivered lectures on <strong>UX design methodologies</strong>.",
-                                    "<strong>Supervised student projects</strong> and provided constructive feedback.",
-                                    "Collaborated with industry professionals to <strong>keep course content relevant.</strong>",
-                                    "<strong>Mentored students</strong> in their career development and design portfolios."
+                                    "Developed and maintained backend services using PHP and Lumen.",
+                                    "Designed and implemented microservices architecture.",
+                                    "Integrated systems with Elasticsearch, RabbitMQ, and REST APIs.",
+                                    "Participated in code reviews and contributed to API design (OpenAPI, JSON:API)."
                                 ]
                             },
-                            "province": "New York",
-                            "country": "US",
-                            "institution": "Coursera",
-                            "tags": ["Adobe XD", "Sketch", "Axure", "Educational Mentorship"]
+                            "province": "Prague",
+                            "country": "Czech Republic",
+                            "institution": "Investors in Ideas",
+                            "tags": ["PHP", "Lumen", "MySQL", "Microservices", "Elasticsearch", "RabbitMQ", "REST", "OpenAPI", "JSON:API"]
                         },
-
-                        "es": {
-                            "title": "Profesor de Tiempo Completo en UX Design",
-                            "description": "Enseñé principios y prácticas avanzadas de <strong>diseño UX</strong> a estudiantes de pregrado y posgrado, enfocándome en aplicaciones del mundo real y estándares de la industria. Desarrollé materiales del curso y tareas que desafiaron a los estudiantes a pensar críticamente y de manera creativa sobre el diseño de la experiencia del usuario.",
+                        "de": {
+                            "title": "PHP-Entwickler",
+                            "description": "Backend-Entwicklung und Mitwirkung an der Architekturplanung für skalierbare Webanwendungen.",
                             "list": {
-                                "title": "Responsabilidades Clave:",
+                                "title": "Hauptverantwortlichkeiten:",
                                 "items": [
-                                    "Diseñé y entregué conferencias sobre <strong>metodologías de diseño UX</strong>.",
-                                    "<strong>Supervisé proyectos estudiantiles</strong> y proporcioné retroalimentación constructiva.",
-                                    "Colaboré con profesionales de la industria para <strong>mantener el contenido del curso relevante.</strong>",
-                                    "<strong>Mentoricé a estudiantes</strong> en su desarrollo profesional y portafolios de diseño."
+                                    "Entwicklung und Wartung von Backend-Diensten mit PHP und Lumen.",
+                                    "Entwurf und Implementierung einer Microservices-Architektur.",
+                                    "Integration von Systemen mit Elasticsearch, RabbitMQ und REST-APIs.",
+                                    "Teilnahme an Code-Reviews und Mitwirkung am API-Design (OpenAPI, JSON:API)."
                                 ]
                             },
-                            "province": "Nueva York",
-                            "country": "EE. UU.",
-                            "institution": "Coursera",
-                            "tags": ["Adobe XD", "Sketch", "Axure", "Mentoría Educativa"]
+                            "province": null,
+                            "country": "Tschechische Republik",
+                            "institution": "Investors in Ideas",
+                            "tags": ["PHP", "Lumen", "MySQL", "Microservices", "Elasticsearch", "RabbitMQ", "REST", "OpenAPI", "JSON:API"]
                         },
-
-                        "fr": {
-                            "title": "Professeur à temps plein en UX Design",
-                            "description": "A enseigné les principes et pratiques avancés du <strong>design UX</strong> aux étudiants de premier et deuxième cycle, en mettant l'accent sur les applications réelles et les normes de l'industrie. A développé des supports de cours et des devoirs qui ont poussé les étudiants à réfléchir de manière critique et créative au design de l'expérience utilisateur.",
+                        "uk": {
+                            "title": "PHP Розробник",
+                            "description": "Займався бекенд-розробкою та брав участь у плануванні архітектури масштабованих веб-додатків.",
                             "list": {
-                                "title": "Responsabilités Clés:",
+                                "title": "Основні обов'язки:",
                                 "items": [
-                                    "A conçu et dispensé des cours sur les <strong>méthodologies de design UX</strong>.",
-                                    "<strong>A supervisé les projets étudiants</strong> et fourni des retours constructifs.",
-                                    "A collaboré avec des professionnels de l'industrie pour <strong>maintenir la pertinence du contenu du cours.</strong>",
-                                    "<strong>A encadré les étudiants</strong> dans leur développement professionnel et leurs portfolios de design."
+                                    "Розробка та підтримка бекенд-сервісів на PHP і Lumen.",
+                                    "Проєктування та впровадження архітектури мікросервісів.",
+                                    "Інтеграція систем з Elasticsearch, RabbitMQ та REST API.",
+                                    "Участь у code-review та розробці API (OpenAPI, JSON:API)."
                                 ]
                             },
-                            "province": "New York",
-                            "country": "États-Unis",
-                            "institution": "Coursera",
-                            "tags": ["Adobe XD", "Sketch", "Axure", "Mentorat Éducatif"]
+                            "province": "Прага",
+                            "country": "Чехія",
+                            "institution": "Investors in Ideas",
+                            "tags": ["PHP", "Lumen", "MySQL", "Microservices", "Elasticsearch", "RabbitMQ", "REST", "OpenAPI", "JSON:API"]
                         },
-
-                        "zh": {
-                            "title": "全职用户体验设计教授",
-                            "description": "教授本科生和研究生高级用户体验设计原则和实践，专注于实际应用和行业标准。开发课程材料和作业，挑战学生批判性和创造性地思考用户体验设计。",
+                        "ru": {
+                            "title": "PHP Разработчик",
+                            "description": "Выполнял backend-разработку и участвовал в планировании архитектуры масштабируемых веб-приложений.",
                             "list": {
-                                "title": "主要职责:",
+                                "title": "Основные обязанности:",
                                 "items": [
-                                    "设计并讲授用户体验设计方法论的课程。",
-                                    "监督学生项目并提供建设性反馈。",
-                                    "与行业专业人士合作，保持课程内容的相关性。",
-                                    "指导学生职业发展和设计作品集。"
+                                    "Разработка и поддержка backend-сервисов на PHP и Lumen.",
+                                    "Проектирование и внедрение архитектуры микросервисов.",
+                                    "Интеграция систем с Elasticsearch, RabbitMQ и REST API.",
+                                    "Участие в code-review и разработке API (OpenAPI, JSON:API)."
                                 ]
                             },
-                            "province": "纽约",
-                            "country": "美国",
-                            "institution": "Coursera",
-                            "tags": ["Adobe XD", "Sketch", "Axure", "教育指导"]
+                            "province": "Прага",
+                            "country": "Чехия",
+                            "institution": "Investors in Ideas",
+                            "tags": ["PHP", "Lumen", "MySQL", "Microservices", "Elasticsearch", "RabbitMQ", "REST", "OpenAPI", "JSON:API"]
                         }
                     }
                 },
 
                 {
                     "id": 5,
-                    "dateStart": {"year": 2024, "month": 10},
-                    "dateEnd": {"string": "now"},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-steam",
-                    "fallbackFaIconColor": "#222222",
-
+                    "dateStart": {"year": 2020, "month": 1},
+                    "dateEnd": {"year": 2023, "month": 1},
+                    "img": "images/places/logo-itea.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Project Manager",
-                            "description": "Overseeing the development and implementation of <strong>Agile methodologies</strong> within the organization, ensuring projects are delivered on time and within scope. Collaborating with cross-functional teams to manage risks, resources, and stakeholder expectations effectively.",
+                            "title": "Course Instructor",
+                            "description": "Taught object-oriented PHP programming, software design principles, and design patterns to students.",
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "Facilitated <strong>Agile ceremonies</strong> such as sprint planning, daily stand-ups, and retrospectives.",
-                                    "Managed project timelines, budgets, and resources to ensure successful delivery.",
-                                    "Collaborated with product owners to prioritize and <strong>refine the product backlog</strong>.",
-                                    "<strong>Identified and mitigated</strong> project risks to ensure smooth execution."
+                                    "Delivered lectures and practical sessions on object-oriented PHP.",
+                                    "Explained software design principles and common design patterns.",
+                                    "Guided students through hands-on projects and exercises.",
+                                    "Provided feedback and mentorship to improve students' coding skills."
                                 ]
                             },
-                            "province": "San Francisco",
-                            "country": "US",
-                            "institution": "Steam Valve",
-                            "tags": ["Agile", "Scrum", "Leadership", "Risk Management"]
+                            "province": "Kyiv",
+                            "country": "Ukraine",
+                            "institution": "IT Education Academy (ITEA)",
+                            "tags": ["PHP", "OOP", "Software Design", "Design Patterns", "Teaching"]
                         },
-
-                        "es": {
-                            "title": "Gerente de Proyectos",
-                            "description": "Supervisando el desarrollo e implementación de <strong>metodologías ágiles</strong> dentro de la organización, asegurando que los proyectos se entreguen a tiempo y dentro del alcance. Colaborando con equipos multifuncionales para gestionar riesgos, recursos y expectativas de las partes interesadas de manera efectiva.",
+                        "de": {
+                            "title": "Kursleiter",
+                            "description": "Unterrichtete objektorientierte PHP-Programmierung, Software-Design-Prinzipien und Designmuster für Studierende.",
                             "list": {
-                                "title": "Responsabilidades Clave:",
+                                "title": "Hauptverantwortlichkeiten:",
                                 "items": [
-                                    "Facilité ceremonias <strong>ágiles</strong> como planificación de sprints, reuniones diarias y retrospectivas.",
-                                    "Gestioné cronogramas de proyectos, presupuestos y recursos para garantizar una entrega exitosa.",
-                                    "Colaboré con propietarios de productos para priorizar y <strong>refinar el backlog del producto</strong>.",
-                                    "<strong>Identifiqué y mitigé</strong> los riesgos del proyecto para asegurar una ejecución fluida."
+                                    "Durchführung von Vorlesungen und praktischen Übungen zu objektorientiertem PHP.",
+                                    "Erklärung von Prinzipien des Software-Designs und gängigen Designmustern.",
+                                    "Begleitung der Studierenden bei praktischen Projekten und Übungen.",
+                                    "Feedback und Mentoring zur Verbesserung der Programmierfähigkeiten der Studierenden."
                                 ]
                             },
-                            "province": "San Francisco",
-                            "country": "EE. UU.",
-                            "institution": "Steam Valve",
-                            "tags": ["Agile", "Scrum", "Liderazgo", "Gestión de Riesgos"]
+                            "province": "Kyiv",
+                            "country": "Ukraine",
+                            "institution": "IT Education Academy (ITEA)",
+                            "tags": ["PHP", "OOP", "Software-Design", "Designmuster", "Lehre"]
                         },
-
-                        "fr": {
-                            "title": "Chef de Projet",
-                            "description": "Supervision du développement et de la mise en œuvre des <strong>méthodologies Agile</strong> au sein de l'organisation, garantissant que les projets sont livrés à temps et dans le respect du périmètre. Collaboration avec des équipes interfonctionnelles pour gérer efficacement les risques, les ressources et les attentes des parties prenantes.",
+                        "uk": {
+                            "title": "Викладач курсів",
+                            "description": "Навчав студентів об'єктно-орієнтованому програмуванню на PHP, принципам проектування програмного забезпечення та шаблонам проектування.",
                             "list": {
-                                "title": "Responsabilités Clés:",
+                                "title": "Основні обов'язки:",
                                 "items": [
-                                    "Animation des cérémonies <strong>Agile</strong> telles que la planification des sprints, les réunions quotidiennes et les rétrospectives.",
-                                    "Gestion des délais, budgets et ressources des projets pour garantir une livraison réussie.",
-                                    "Collaboration avec les propriétaires de produits pour prioriser et <strong>affiner le backlog produit</strong>.",
-                                    "<strong>Identification et atténuation</strong> des risques de projet pour assurer une exécution fluide."
+                                    "Проведення лекцій та практичних занять з ООП на PHP.",
+                                    "Пояснення принципів проектування ПЗ та поширених шаблонів проектування.",
+                                    "Супровід студентів у практичних проєктах та завданнях.",
+                                    "Надання зворотного зв’язку та наставництво для покращення навичок програмування."
                                 ]
                             },
-                            "province": "San Francisco",
-                            "country": "États-Unis",
-                            "institution": "Steam Valve",
-                            "tags": ["Agile", "Scrum", "Leadership", "Gestion des Risques"]
+                            "province": "Київ",
+                            "country": "Україна",
+                            "institution": "IT Education Academy (ITEA)",
+                            "tags": ["PHP", "ООП", "Проектування ПЗ", "Шаблони проектування", "Навчання"]
                         },
-
-                        "zh": {
-                            "title": "项目经理",
-                            "description": "监督组织内敏捷方法论的开发和实施，确保项目按时并在范围内交付。与跨职能团队合作，有效管理风险、资源和利益相关者期望。",
+                        "ru": {
+                            "title": "Преподаватель курсов",
+                            "description": "Преподавал студентам объектно-ориентированное программирование на PHP, принципы проектирования ПО и шаблоны проектирования.",
                             "list": {
-                                "title": "主要职责:",
+                                "title": "Основные обязанности:",
                                 "items": [
-                                    "主持敏捷仪式，如冲刺计划、每日站会和回顾会议。",
-                                    "管理项目时间表、预算和资源，确保成功交付。",
-                                    "与产品负责人合作，优先考虑并完善产品待办事项列表。",
-                                    "识别并缓解项目风险，以确保顺利执行。"
+                                    "Проведение лекций и практических занятий по ООП на PHP.",
+                                    "Объяснение принципов проектирования ПО и распространенных шаблонов проектирования.",
+                                    "Сопровождение студентов в практических проектах и заданиях.",
+                                    "Предоставление обратной связи и наставничество для улучшения навыков программирования."
                                 ]
                             },
-                            "province": "旧金山",
-                            "country": "美国",
-                            "institution": "Steam Valve",
-                            "tags": ["敏捷", "Scrum", "领导力", "风险管理"]
+                            "province": "Киев",
+                            "country": "Украина",
+                            "institution": "IT Education Academy (ITEA)",
+                            "tags": ["PHP", "ООП", "Проектирование ПО", "Шаблоны проектирования", "Преподавание"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2020, "month": 1},
+                    "dateEnd": {"year": 2023, "month": 1},
+                    "img": "images/places/logo-rollun.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Backend Developer",
+                            "description": "Designed and developed new components, maintained existing ones within a microservice architecture for e-commerce integrations.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Implemented backend features and services using PHP and Laminas (Zend).",
+                                    "Worked with MySQL databases and optimized queries for performance.",
+                                    "Integrated external APIs including Amazon and eBay.",
+                                    "Maintained and enhanced microservices architecture, ensuring reliability and scalability."
+                                ]
+                            },
+                            "province": null,
+                            "country": "USA",
+                            "institution": "Rollun",
+                            "tags": ["PHP", "MySQL", "Laminas", "Docker", "Amazon API", "eBay API", "Microservices", "REST", "SQS"]
+                        },
+                        "de": {
+                            "title": "Backend-Entwickler",
+                            "description": "Entwicklung neuer Komponenten und Pflege bestehender innerhalb einer Microservice-Architektur für E-Commerce-Integrationen.",
+                            "list": {
+                                "title": "Hauptverantwortlichkeiten:",
+                                "items": [
+                                    "Implementierung von Backend-Funktionen und Services mit PHP und Laminas (Zend).",
+                                    "Arbeiten mit MySQL-Datenbanken und Optimierung von Abfragen für Performance.",
+                                    "Integration externer APIs, darunter Amazon und eBay.",
+                                    "Pflege und Weiterentwicklung der Microservices-Architektur zur Sicherstellung von Zuverlässigkeit und Skalierbarkeit."
+                                ]
+                            },
+                            "province": null,
+                            "country": "USA",
+                            "institution": "Rollun",
+                            "tags": ["PHP", "MySQL", "Laminas", "Docker", "Amazon API", "eBay API", "Microservices", "REST", "SQS"]
+                        },
+                        "uk": {
+                            "title": "Бекенд-розробник",
+                            "description": "Проектував та розробляв нові компоненти, підтримував існуючі в мікросервісній архітектурі для інтеграцій e-commerce.",
+                            "list": {
+                                "title": "Основні обов'язки:",
+                                "items": [
+                                    "Реалізація бекенд-функцій та сервісів на PHP та Laminas (Zend).",
+                                    "Робота з базами даних MySQL та оптимізація запитів для продуктивності.",
+                                    "Інтеграція зовнішніх API, включно з Amazon та eBay.",
+                                    "Підтримка та вдосконалення мікросервісної архітектури для надійності та масштабованості."
+                                ]
+                            },
+                            "province": null,
+                            "country": "USA",
+                            "institution": "Rollun",
+                            "tags": ["PHP", "MySQL", "Laminas", "Docker", "Amazon API", "eBay API", "Microservices", "REST", "SQS"]
+                        },
+                        "ru": {
+                            "title": "Бэкенд-разработчик",
+                            "description": "Проектировал и разрабатывал новые компоненты, поддерживал существующие в микросервисной архитектуре для интеграций e-commerce.",
+                            "list": {
+                                "title": "Основные обязанности:",
+                                "items": [
+                                    "Реализация бэкенд-функций и сервисов на PHP и Laminas (Zend).",
+                                    "Работа с базами данных MySQL и оптимизация запросов для производительности.",
+                                    "Интеграция внешних API, включая Amazon и eBay.",
+                                    "Поддержка и улучшение микросервисной архитектуры для надежности и масштабируемости."
+                                ]
+                            },
+                            "province": null,
+                            "country": "USA",
+                            "institution": "Rollun",
+                            "tags": ["PHP", "MySQL", "Laminas", "Docker", "Amazon API", "eBay API", "Microservices", "REST", "SQS"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 7,
+                    "dateStart": {"year": 2024, "month": 1},
+                    "dateEnd": {"year": 2025, "month": 1},
+                    "img": "images/places/logo-freelance.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Developer",
+                            "description": "Developed full-stack web projects using PHP, MySQL, Laravel, Symfony, JavaScript, and Vue.js.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Designed and implemented backend logic using PHP, Laravel, and Symfony.",
+                                    "Created and maintained MySQL databases for project data.",
+                                    "Developed interactive front-end components using JavaScript and Vue.js.",
+                                    "Ensured overall project architecture, code quality, and maintainability."
+                                ]
+                            },
+                            "province": null,
+                            "country": "Germany",
+                            "institution": "Freelance",
+                            "tags": ["PHP", "MySQL", "Laravel", "Symfony", "JavaScript", "Vue.js"]
+                        },
+                        "de": {
+                            "title": "Webentwickler (Freelance)",
+                            "description": "Entwicklung Full-Stack-Webprojekte mit PHP, MySQL, Laravel, Symfony, JavaScript und Vue.js.",
+                            "list": {
+                                "title": "Hauptverantwortlichkeiten:",
+                                "items": [
+                                    "Backend-Logik mit PHP, Laravel und Symfony entworfen und implementiert.",
+                                    "MySQL-Datenbanken für Projektdaten erstellt und gepflegt.",
+                                    "Interaktive Frontend-Komponenten mit JavaScript und Vue.js entwickelt.",
+                                    "Gesamte Projektarchitektur, Codequalität und Wartbarkeit sichergestellt."
+                                ]
+                            },
+                            "province": null,
+                            "country": "Deutsch",
+                            "institution": "Freelance",
+                            "tags": ["PHP", "MySQL", "Laravel", "Symfony", "JavaScript", "Vue.js"]
+                        },
+                        "uk": {
+                            "title": "Веб розробник (Фріланс)",
+                            "description": "Розробляв повноцінні веб-проекти, використовуючи PHP, MySQL, Laravel, Symfony, JavaScript та Vue.js.",
+                            "list": {
+                                "title": "Основні обов'язки:",
+                                "items": [
+                                    "Проектування та реалізація бекенд-логіки на PHP, Laravel та Symfony.",
+                                    "Створення та підтримка баз даних MySQL для проектів.",
+                                    "Розробка інтерактивних фронтенд-компонентів на JavaScript та Vue.js.",
+                                    "Забезпечення архітектури проекту, якості коду та підтримуваності."
+                                ]
+                            },
+                            "province": null,
+                            "country": "Німеччина",
+                            "institution": "Фріланс",
+                            "tags": ["PHP", "MySQL", "Laravel", "Symfony", "JavaScript", "Vue.js"]
+                        },
+                        "ru": {
+                            "title": "Веб разработчик (Фриланс)",
+                            "description": "Разрабатывал полнофункциональные веб-проекты с использованием PHP, MySQL, Laravel, Symfony, JavaScript и Vue.js.",
+                            "list": {
+                                "title": "Основные обязанности:",
+                                "items": [
+                                    "Проектирование и реализация бэкенд-логики на PHP, Laravel и Symfony.",
+                                    "Создание и поддержка баз данных MySQL для проектов.",
+                                    "Разработка интерактивных фронтенд-компонентов на JavaScript и Vue.js.",
+                                    "Обеспечение архитектуры проекта, качества кода и поддерживаемости."
+                                ]
+                            },
+                            "province": null,
+                            "country": "Германия",
+                            "institution": "Фриланс",
+                            "tags": ["PHP", "MySQL", "Laravel", "Symfony", "JavaScript", "Vue.js"]
                         }
                     }
                 }

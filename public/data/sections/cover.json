@@ -15,40 +15,33 @@
                     "id": 1,
                     "locales": {
                         "en": {
-                            "description": "I've been a UX designer for <strong>8 years</strong>, crafting user-friendly interfaces that feel natural, intuitive, and seamless across different devices. My passion lies in designing digital experiences that not only look great but also function effortlessly, making interactions smoother and more enjoyable."
+                            "description": "I'm a PHP web developer with over <strong>10 years</strong> of experience building scalable, maintainable, and high-performance web applications. I specialize in backend development, database design, and API integration, creating systems that reliably support complex business logic and seamless user interactions."
                         },
-
-                        "es": {
-                            "description": "Soy diseñador UX desde hace <strong>8 años</strong>, creando interfaces amigables que se sienten naturales, intuitivas y fluidas en diferentes dispositivos. Me apasiona diseñar experiencias digitales que no solo se vean bien, sino que también funcionen sin esfuerzo, haciendo que las interacciones sean más suaves y agradables."
+                        "de": {
+                            "description": "Ich bin ein PHP-Webentwickler mit über <strong>10 Jahren</strong> Erfahrung im Aufbau skalierbarer, wartbarer und leistungsstarker Webanwendungen. Ich spezialisiere mich auf Backend-Entwicklung, Datenbankdesign und API-Integration und erstelle Systeme, die komplexe Geschäftslogik zuverlässig unterstützen und nahtlose Benutzerinteraktionen ermöglichen."
                         },
-
-                        "fr": {
-                            "description": "Je suis designer UX depuis <strong>8 ans</strong>, créant des interfaces conviviales qui se sentent naturelles, intuitives et fluides sur différents appareils. Ma passion est de concevoir des expériences numériques qui non seulement sont esthétiques, mais fonctionnent également sans effort, rendant les interactions plus fluides et agréables."
+                        "uk": {
+                            "description": "Я PHP веб-розробник із більш ніж <strong>10-річним</strong> досвідом створення масштабованих, підтримуваних і високопродуктивних веб-застосунків. Спеціалізуюся на бекенд-розробці, проектуванні баз даних та інтеграції API, створюючи системи, що надійно підтримують складну бізнес-логіку та забезпечують зручну взаємодію користувачів."
                         },
-
-                        "zh": {
-                            "description": "我是一名拥有<strong>8年</strong>经验的UX设计师，专注于打造自然、直观且跨设备无缝的用户界面。我的热情在于设计数字体验，不仅外观出色，而且功能流畅，使交互更加顺畅和愉悦。"
+                        "ru": {
+                            "description": "Я PHP веб-разработчик с более чем <strong>10-летним</strong> опытом создания масштабируемых, поддерживаемых и высокопроизводительных веб-приложений. Специализируюсь на backend-разработке, проектировании баз данных и интеграции API, создавая системы, которые надежно поддерживают сложную бизнес-логику и обеспечивают удобное взаимодействие пользователей."
                         }
                     }
                 },
-
                 {
                     "id": 2,
                     "locales": {
                         "en": {
-                            "description": "I believe that good design should enhance people's lives, helping them navigate technology with ease and confidence. Let’s work together to bring ideas to life and build something truly amazing!"
+                            "description": "I enjoy turning complex requirements into efficient code, optimizing performance, and maintaining clean architecture. Collaboration is key, and I thrive when building solutions that make a real impact for users and businesses alike."
                         },
-
-                        "es": {
-                            "description": "Creo que un buen diseño debe mejorar la vida de las personas, ayudándolas a navegar por la tecnología con facilidad y confianza. ¡Trabajemos juntos para dar vida a las ideas y construir algo verdaderamente asombroso!"
+                        "de": {
+                            "description": "Ich setze komplexe Anforderungen gerne in effizienten Code um, optimiere die Leistung und achte auf saubere Architekturen. Zusammenarbeit ist mir wichtig, und ich blühe auf, wenn ich Lösungen entwickle, die für Benutzer und Unternehmen einen echten Mehrwert schaffen."
                         },
-
-                        "fr": {
-                            "description": "Je crois qu'un bon design doit améliorer la vie des gens, les aidant à naviguer dans la technologie avec aisance et confiance. Travaillons ensemble pour donner vie aux idées et construire quelque chose de vraiment incroyable !"
+                        "uk": {
+                            "description": "Мені подобається перетворювати складні вимоги у ефективний код, оптимізувати продуктивність та підтримувати чисту архітектуру. Співпраця дуже важлива, і я найбільш ефективний, коли створюю рішення, які справді приносять користь користувачам та бізнесу."
                         },
-
-                        "zh": {
-                            "description": "我相信好的设计应该提升人们的生活，帮助他们轻松自信地使用技术。让我们一起工作，将创意变为现实，打造真正令人惊叹的作品！"
+                        "ru": {
+                            "description": "Мне нравится превращать сложные требования в эффективный код, оптимизировать производительность и поддерживать чистую архитектуру. Сотрудничество важно, и я показываю лучшие результаты, создавая решения, которые реально помогают пользователям и бизнесу."
                         }
                     }
                 }

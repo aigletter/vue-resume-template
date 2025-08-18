@@ -9,9 +9,21 @@
             </div>
 
             <div class="timeline-item-content-header-date-badge-wrapper">
-                <InfoBadge  class="date-badge"
-                            fa-icon="fa-regular fa-calendar"
-                            :value="dateString"/>
+              <template v-if="dates">
+                <InfoBadge
+                    v-for="item in dates"
+                    class="date-badge"
+                    fa-icon="fa-regular fa-calendar"
+                    :value="formatDateString(item.dateStart, item.dateEnd)"
+                />
+              </template>
+              <InfoBadge
+                  v-else
+                  class="date-badge"
+                  fa-icon="fa-regular fa-calendar"
+                  :value="dateString"
+              />
+
             </div>
         </div>
 
@@ -45,6 +57,7 @@ import Tags from "/src/vue/components/widgets/Tags.vue"
 
 const props = defineProps({
     title: String,
+    dates: Array,
     formattedDateStart: String,
     formattedDateEnd: String,
     province: String,
@@ -63,6 +76,12 @@ const parsedTags = computed(() => {
         return props.tags
     return []
 })
+
+const formatDateString = (dateStart, dateEnd) => {
+  return dateStart +
+      '<i class="mx-2 fa-solid fa-arrow-right-long" style="font-size: 10px; opacity: 0.85"></i>' +
+      dateEnd
+}
 
 const dateString = computed(() => {
     return props.formattedDateStart +
@@ -164,6 +183,10 @@ div.timeline-item-content-header {
     @include media-breakpoint-down(xl) {
         display: none!important;
     }
+
+    /*&:last-child:not(:only-child) {
+      margin-left: 10px;
+    }*/
 }
 
 div.timeline-item-content-body {

@@ -1,5 +1,23 @@
 import Locales from "/src/models/Locales"
 
+class DateItem {
+    #dateStart;
+    #dateEnd;
+
+    constructor(dateStart, dateEnd) {
+        this.#dateStart = dateStart;
+        this.#dateEnd = dateEnd;
+    }
+
+    dateStart() {
+        return this.#dateStart;
+    }
+
+    dateEnd() {
+        return this.#dateEnd;
+    }
+}
+
 export default class ArticleItem {
     /** @constructs */
     constructor(data) {
@@ -7,6 +25,7 @@ export default class ArticleItem {
         this._img = data.img
         this._fallbackFaIcon = data['fallbackFaIcon']
         this._fallbackFaIconColor = data['fallbackFaIconColor']
+        this._dates = data['dates'];
         this._dateStart = data['dateStart']
         this._dateEnd = data['dateEnd']
         this._percentage = data['percentage']
@@ -33,6 +52,15 @@ export default class ArticleItem {
     /** @return {String} */
     get fallbackFaIconColor() {
         return this._fallbackFaIconColor
+    }
+
+    get dates() {
+        return this._dates?.map((item) => {
+            return {
+                dateStart: this._parseDate(item.dateStart),
+                dateEnd: this._parseDate(item.dateEnd)
+            }
+        });
     }
 
     /** @return {Date|String} */

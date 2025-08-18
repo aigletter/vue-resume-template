@@ -1,5 +1,5 @@
 {
-    "name": "Roy Sheppard",
+    "name": "Yurii Orlyk",
     "profilePictureUrl": "images/pictures/avatar.jpg",
 
     "locales": {
@@ -32,8 +32,12 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "123 Main Street, Cupertino, CA 01234",
-                    "valueShort": "Cupertino – CA"
+                    "value": "Ringstr., 85095 Denkendorf, Germany",
+                    "valueShort": "Denkendorf – DE"
+                },
+                "de": {
+                    "value": "Ringstr., 85095 Denkendorf, Germany",
+                    "valueShort": "Denkendorf – DE"
                 },
                 "es": {
                     "valueShort": "California – EE.UU."
@@ -49,34 +53,26 @@
 
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "aigletter@gmail.com",
+            "valueShort": "aigletter@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
+            "href": "mailto:aigletter@gmail.com"
         },
 
         {
             "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
+            "value": "Yurii Orlyk",
+            "valueShort": "Yurii O.",
             "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
+            "href": "https://www.facebook.com/aigletter"
         },
 
         {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@aigletter",
+            "valueShort": "@aigletter",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
-        },
-
-        {
-            "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
+            "href": "https://github.com/aigletter"
         },
 
         {
@@ -84,15 +80,15 @@
             "value": "@roy.sheppard.official",
             "valueShort": "@roy.sheppard.official",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/yurii-orlyk"
         },
 
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "(+49) 0160 98532116",
+            "valueShort": "0160 98532116",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890"
+            "href": "tel:(+49) 0160 98532116"
         }
     ]
 }

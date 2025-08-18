@@ -11,21 +11,21 @@
         },
 
         {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
+            "name": "Deutsch",
+            "id": "de",
+            "flagUrl": "images/flags/de.png"
         },
 
         {
-            "name": "Français",
-            "id": "fr",
-            "flagUrl": "images/flags/fr.png"
+            "name": "Українська",
+            "id": "uk",
+            "flagUrl": "images/flags/uk.png"
         },
 
         {
-            "name": "中文",
-            "id": "zh",
-            "flagUrl": "images/flags/zh.png"
+            "name": "Русский",
+            "id": "ru",
+            "flagUrl": "images/flags/ru.png"
         }
     ]
 }

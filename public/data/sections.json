@@ -13,23 +13,23 @@
                     "description": null,
                     "nav_label": "About"
                 },
-                "es": {
-                    "title": "¡Bienvenido a *mi CV!*",
-                    "title_short": "Bienvenido!",
+                "de": {
+                    "title": "Willkommen zu *meinem Lebenslauf!*",
+                    "title_short": "Willkommen!",
                     "description": null,
-                    "nav_label": "Acerca de"
+                    "nav_label": "Über mich"
                 },
-                "fr": {
-                    "title": "Bienvenue sur *mon CV!*",
-                    "title_short": "Bienvenue !",
+                "uk": {
+                    "title": "Ласкаво просимо до *мієї резюме!*",
+                    "title_short": "Вітаю!",
                     "description": null,
-                    "nav_label": "À propos"
+                    "nav_label": "Про мене"
                 },
-                "zh": {
-                    "title": "欢迎来到我的*简历！*",
-                    "title_short": "欢迎！",
+                "ru": {
+                    "title": "Добро пожаловать в *мое резюме!*",
+                    "title_short": "Добро пожаловать!",
                     "description": null,
-                    "nav_label": "关于"
+                    "nav_label": "Обо мне"
                 }
             }
         },
@@ -47,23 +47,23 @@
                     "description": "A glimpse into my academic trajectory and accomplishments.",
                     "nav_label": "Education"
                 },
-                "es": {
-                    "title": "Antecedentes *Educativos*",
+                "de": {
+                    "title": "*Bildungs* Hintergrund",
                     "title_short": null,
-                    "description": "Un vistazo a mi trayectoria académica y logros.",
-                    "nav_label": "Educación"
+                    "description": "Ein Einblick in meinen akademischen Werdegang und meine Leistungen.",
+                    "nav_label": "Ausbildung"
                 },
-                "fr": {
-                    "title": "Parcours *Éducatif*",
+                "uk": {
+                    "title": "Освітній *Шлях*",
                     "title_short": null,
-                    "description": "Un aperçu de mon parcours académique et de mes réalisations.",
-                    "nav_label": "Éducation"
+                    "description": "Погляд на мій академічний шлях та здобутки.",
+                    "nav_label": "Освіта"
                 },
-                "zh": {
-                    "title": "*教育* 背景",
+                "ru": {
+                    "title": "Образовательный *Путь*",
                     "title_short": null,
-                    "description": "一瞥我的学术轨迹和成就。",
-                    "nav_label": "教育背景"
+                    "description": "Взгляд на мою академическую карьеру и достижения.",
+                    "nav_label": "Образование"
                 }
             }
         },
@@ -81,23 +81,23 @@
                     "description": "Exploring the diverse range of skills I've acquired and developed:",
                     "nav_label": "Skills"
                 },
-                "es": {
-                    "title": "Conjunto de *Habilidades*",
+                "de": {
+                    "title": "*Fähigkeiten*",
                     "title_short": null,
-                    "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:",
-                    "nav_label": "Habilidades"
+                    "description": "Eine Erkundung der vielfältigen Fähigkeiten, die ich erworben und entwickelt habe:",
+                    "nav_label": "Fähigkeiten"
                 },
-                "fr": {
-                    "title": "Ensemble de *Compétences*",
+                "uk": {
+                    "title": "Набір *Навичок*",
                     "title_short": null,
-                    "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:",
-                    "nav_label": "Compétences"
+                    "description": "Огляд різноманітних навичок, які я здобув та розвинув:",
+                    "nav_label": "Навички"
                 },
-                "zh": {
-                    "title": "*技能* 集",
+                "ru": {
+                    "title": "Набор *Навыков*",
                     "title_short": null,
-                    "description": "探索我所掌握和发展的多样技能:",
-                    "nav_label": "技能"
+                    "description": "Обзор разнообразных навыков, которые я приобрел и развил:",
+                    "nav_label": "Навыки"
                 }
             }
         },
@@ -115,23 +115,23 @@
                     "description": "A look into my work experience and career journey.",
                     "nav_label": "Experience"
                 },
-                "es": {
-                    "title": "Experiencia *Profesional*",
+                "de": {
+                    "title": "*Berufliche* Erfahrung",
                     "title_short": null,
-                    "description": "Un vistazo a mi experiencia laboral y trayectoria profesional.",
-                    "nav_label": "Experiencia"
+                    "description": "Ein Blick auf meine Berufserfahrung und meinen Karriereweg.",
+                    "nav_label": "Erfahrung"
                 },
-                "fr": {
-                    "title": "Expérience *Professionnelle*",
+                "uk": {
+                    "title": "Професійний *Досвід*",
                     "title_short": null,
-                    "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière.",
-                    "nav_label": "Expérience"
+                    "description": "Огляд мого досвіду роботи та кар’єрного шляху.",
+                    "nav_label": "Досвід"
                 },
-                "zh": {
-                    "title": "*专业* 经验",
+                "ru": {
+                    "title": "*Профессиональный* Опыт",
                     "title_short": null,
-                    "description": "了解我的工作经验和职业之旅。",
-                    "nav_label": "工作经历"
+                    "description": "Обзор моего опыта работы и карьерного пути.",
+                    "nav_label": "Опыт"
                 }
             }
         },
@@ -149,23 +149,23 @@
                     "description": "Explore a selection of my recent projects and creative works.",
                     "nav_label": "Portfolio"
                 },
-                "es": {
-                    "title": "Mi *Portafolio*",
+                "de": {
+                    "title": "Mein *Portfolio*",
                     "title_short": null,
-                    "description": "Explora una selección de mis proyectos recientes y trabajos creativos.",
-                    "nav_label": "Portafolio"
-                },
-                "fr": {
-                    "title": "Mon *Portfolio*",
-                    "title_short": null,
-                    "description": "Découvrez une sélection de mes projets récents et œuvres créatives.",
+                    "description": "Eine Auswahl meiner neuesten Projekte und kreativen Arbeiten.",
                     "nav_label": "Portfolio"
                 },
-                "zh": {
-                    "title": "我的*作品集*",
+                "uk": {
+                    "title": "Моє *Портфоліо*",
                     "title_short": null,
-                    "description": "浏览我最近的一些项目和创意作品。",
-                    "nav_label": "作品集"
+                    "description": "Добірка моїх останніх проєктів та творчих робіт.",
+                    "nav_label": "Портфоліо"
+                },
+                "ru": {
+                    "title": "Мое *Портфолио*",
+                    "title_short": null,
+                    "description": "Подборка моих последних проектов и творческих работ.",
+                    "nav_label": "Портфолио"
                 }
             }
         },
@@ -180,26 +180,26 @@
                 "en": {
                     "title": "Career *Achievements*",
                     "title_short": null,
-                    "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:",
+                    "description": "My journey as a web developer has been marked by continuous learning, mastering modern frameworks, and active participation in developer communities. As a result, I have collected a list of notable awards and certifications:",
                     "nav_label": "Achievements"
                 },
-                "es": {
-                    "title": "Logros *Profesionales*",
+                "de": {
+                    "title": "Berufliche *Erfolge*",
                     "title_short": null,
-                    "description": "Mi trayectoria como diseñador de UX ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades, junto con una participación entusiasta en eventos de diseño. Como resultado, he recopilado una lista de premios y certificaciones notables:",
-                    "nav_label": "Logros"
+                    "description": "Mein Weg als Webentwickler war geprägt von kontinuierlichem Lernen, dem Beherrschen moderner Frameworks und der aktiven Teilnahme an Entwickler-Communities. Dadurch habe ich eine Liste bemerkenswerter Auszeichnungen und Zertifikate gesammelt:",
+                    "nav_label": "Erfolge"
                 },
-                "fr": {
-                    "title": "Réalisations *Professionnelles*",
+                "uk": {
+                    "title": "Кар’єрні *Досягнення*",
                     "title_short": null,
-                    "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:",
-                    "nav_label": "Réalisations"
+                    "description": "Мій шлях як веброзробника відзначений постійним навчанням, опануванням сучасних фреймворків та активною участю в спільнотах розробників. У результаті я зібрав перелік вагомих нагород і сертифікацій:",
+                    "nav_label": "Досягнення"
                 },
-                "zh": {
-                    "title": "职业*成就*",
+                "ru": {
+                    "title": "Карьерные *Достижения*",
                     "title_short": null,
-                    "description": "作为一名UX设计师，我的旅程充满了对学习和技能提升的坚定执着，以及对设计活动的热情参与。因此，我汇总了一份显著奖项和认证的列表：",
-                    "nav_label": "成就"
+                    "description": "Мой путь как веб-разработчика был отмечен постоянным обучением, освоением современных фреймворков и активным участием в сообществах разработчиков. В результате я собрал список значимых наград и сертификатов:",
+                    "nav_label": "Достижения"
                 }
             }
         },
@@ -217,23 +217,23 @@
                     "description": "This is pretty much how I spend my free time:",
                     "nav_label": "Hobbies"
                 },
-                "es": {
-                    "title": "*Pasatiempos* e Intereses",
+                "de": {
+                    "title": "*Hobbys* & Interessen",
                     "title_short": null,
-                    "description": "Así es más o menos cómo paso mi tiempo libre:",
-                    "nav_label": "Aficiones"
+                    "description": "So verbringe ich meistens meine Freizeit:",
+                    "nav_label": "Hobbys"
                 },
-                "fr": {
-                    "title": "*Loisirs* et Intérêts",
+                "uk": {
+                    "title": "*Хобі* та інтереси",
                     "title_short": null,
-                    "description": "C'est à peu près ainsi que je passe mon temps libre:",
-                    "nav_label": "Loisirs"
+                    "description": "Приблизно так я проводжу свій вільний час:",
+                    "nav_label": "Хобі"
                 },
-                "zh": {
-                    "title": "*爱好*与兴趣",
+                "ru": {
+                    "title": "*Хобби* и интересы",
                     "title_short": null,
-                    "description": "这基本上是我空闲时间的安排：",
-                    "nav_label": "兴趣爱好"
+                    "description": "Примерно так я провожу своё свободное время:",
+                    "nav_label": "Хобби"
                 }
             }
         },
@@ -251,23 +251,23 @@
                     "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
                     "nav_label": "Contact"
                 },
-                "es": {
-                    "title": "Ponte en *Contacto*",
+                "de": {
+                    "title": "Kontaktiere *Mich*",
                     "title_short": null,
-                    "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
-                    "nav_label": "Contacto"
+                    "description": "Zögern Sie nicht, mich zu kontaktieren, wann immer Sie das Bedürfnis verspüren!",
+                    "nav_label": "Kontakt"
                 },
-                "fr": {
-                    "title": "*Contactez*-moi",
+                "uk": {
+                    "title": "*Зв’яжіться* зі мною",
                     "title_short": null,
-                    "description": "N'hésitez pas à me contacter chaque fois que vous en avez besoin!",
-                    "nav_label": "Contact"
+                    "description": "Будь ласка, не соромтеся писати мені, коли відчуєте потребу!",
+                    "nav_label": "Контакти"
                 },
-                "zh": {
-                    "title": "*联系*我",
+                "ru": {
+                    "title": "*Свяжитесь* со мной",
                     "title_short": null,
-                    "description": "如果您有任何需要，请随时与我联系！",
-                    "nav_label": "联系方式"
+                    "description": "Пожалуйста, не стесняйтесь обращаться ко мне, когда почувствуете необходимость!",
+                    "nav_label": "Контакты"
                 }
             }
         }
