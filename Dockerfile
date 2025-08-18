@@ -1,7 +1,7 @@
 FROM node:20-alpine
 
 # Встановимо робочу директорію
-WORKDIR /app
+WORKDIR /var/www
 
 # Копіюємо package.json та lock-файл
 COPY package*.json ./
