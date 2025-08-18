@@ -53,7 +53,7 @@
                         },
 
                         "uk": {
-                            "title": "Веб розробник",
+                            "title": "Веброзробник",
                             "description": "Робота на фрілансі як фулстек-розробник, переважно з CMS WordPress та Joomla.",
                             "list": {
                                 "title": "Основні обов'язки:",
@@ -71,7 +71,7 @@
                         },
 
                         "ru": {
-                            "title": "Веб разработчик",
+                            "title": "Веб-разработчик",
                             "description": "Работа на фрилансе как фулстек-разработчик, преимущественно с CMS WordPress и Joomla.",
                             "list": {
                                 "title": "Основные обязанности:",
@@ -528,7 +528,7 @@
                             "tags": ["PHP", "MySQL", "Laravel", "Symfony", "JavaScript", "Vue.js"]
                         },
                         "uk": {
-                            "title": "Веб розробник (Фріланс)",
+                            "title": "Веброзробник (Фріланс)",
                             "description": "Розробляв повноцінні веб-проекти, використовуючи PHP, MySQL, Laravel, Symfony, JavaScript та Vue.js.",
                             "list": {
                                 "title": "Основні обов'язки:",
@@ -545,7 +545,7 @@
                             "tags": ["PHP", "MySQL", "Laravel", "Symfony", "JavaScript", "Vue.js"]
                         },
                         "ru": {
-                            "title": "Веб разработчик (Фриланс)",
+                            "title": "Веб-разработчик (Фриланс)",
                             "description": "Разрабатывал полнофункциональные веб-проекты с использованием PHP, MySQL, Laravel, Symfony, JavaScript и Vue.js.",
                             "list": {
                                 "title": "Основные обязанности:",

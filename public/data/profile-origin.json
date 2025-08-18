@@ -4,20 +4,24 @@
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a href='https://github.com/aigletter'>Yurii Orlyk</a></strong>",
-            "role": "Web developer"
+            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "UX Designer"
         },
-        "de": {
-            "credits": "Entworfen von <strong><a href='https://github.com/aigletter'>Yurii Orlyk</a></strong>",
-            "role": "Webentwickler"
+
+        "es": {
+            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Designer de UX"
         },
-        "uk": {
-            "credits": "Розроблено <strong><a href='https://github.com/aigletter'>Yurii Orlyk</a></strong>",
-            "role": "Веброзробник"
+
+        "fr": {
+            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Designer UX"
         },
-        "ru": {
-            "credits": "Разработано <strong><a href='https://github.com/aigletter'>Yurii Orlyk</a></strong>",
-            "role": "Веб-разработчик"
+
+        "zh": {
+            "name": "罗伊谢帕德",
+            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "用户体验设计师"
         }
     },
 
@@ -28,20 +32,21 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "85095 Denkendorf, Germany",
+                    "value": "Ringstr., 85095 Denkendorf, Germany",
                     "valueShort": "Denkendorf – DE"
                 },
                 "de": {
-                    "value": "85095 Denkendorf, Deutsch",
+                    "value": "Ringstr., 85095 Denkendorf, Germany",
                     "valueShort": "Denkendorf – DE"
                 },
-                "uk": {
-                    "value": "85095 Денкендорф, Німеччина",
-                    "valueShort": "Денкендорф – DE"
+                "es": {
+                    "valueShort": "California – EE.UU."
                 },
-                "ru": {
-                    "value": "85095 Денкендорф, Германия",
-                    "valueShort": "Денкендорф – DE"
+                "fr": {
+                    "valueShort": "Californie – États-Unis"
+                },
+                "zh": {
+                    "valueShort": "美国加州"
                 }
             }
         },
@@ -72,8 +77,8 @@
 
         {
             "id": "linkedin",
-            "value": "@aigletter",
-            "valueShort": "@aigletter",
+            "value": "@roy.sheppard.official",
+            "valueShort": "@roy.sheppard.official",
             "faIcon": "fa-brands fa-linkedin",
             "href": "https://www.linkedin.com/in/yurii-orlyk"
         },

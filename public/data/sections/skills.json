@@ -48,7 +48,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2022, "month": 1},
+                    "dateStart": {"year": 2017, "month": 1},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-laravel",
                     "fallbackFaIconColor": null,
@@ -90,7 +90,7 @@
                 },
                 {
                     "id": 6,
-                    "dateStart": {"year": 2023, "month": 1},
+                    "dateStart": {"year": 2015, "month": 1},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-linux",
                     "fallbackFaIconColor": null,

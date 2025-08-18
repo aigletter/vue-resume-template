@@ -50,7 +50,7 @@
                     "locales": {
                         "en": {"title": "Relaxing", "description": "Being lazy and proud of it :)", "level": null},
                         "de": {"title": "Entspannen", "description": "Faul sein und stolz darauf :)", "level": null},
-                        "uk": {"title": "Відпочинок", "description": "Розслабляюся і пишаюся цим :)", "level": null},
+                        "uk": {"title": "Відпочинок", "description": "Лінуюся і пишаюся цим :)", "level": null},
                         "ru": {"title": "Отдых", "description": "Ленюсь и горжусь этим :)", "level": null}
                     }
                 },
@@ -62,7 +62,7 @@
                     "locales": {
                         "en": {"title": "Studying", "description": "Embarking on a continuous journey of learning.", "level": null},
                         "de": {"title": "Studium", "description": "Auf einer kontinuierlichen Lernreise.", "level": null},
-                        "uk": {"title": "Навчання", "description": "Розпочинаю безперервну подорож у навчанні.", "level": null},
+                        "uk": {"title": "Навчання", "description": "Відправляюсь в безперервну подорож навчання.", "level": null},
                         "ru": {"title": "Учёба", "description": "Отправляюсь в непрерывное путешествие обучения.", "level": null}
                     }
                 },
@@ -75,7 +75,7 @@
                         "en": {"title": "Exercising", "description": "Dedicating time to physical well-being.", "level": null},
                         "de": {"title": "Sport", "description": "Zeit für körperliches Wohlbefinden widmen.", "level": null},
                         "uk": {"title": "Спорт", "description": "Приділяю час фізичному здоров’ю.", "level": null},
-                        "ru": {"title": "Фитнес", "description": "Посвящаю время физическому здоровью.", "level": null}
+                        "ru": {"title": "Спорт", "description": "Посвящаю время физическому здоровью.", "level": null}
                     }
                 },
                 {
@@ -86,7 +86,7 @@
                     "locales": {
                         "en": {"title": "Cooking", "description": "Creating culinary masterpieces.", "level": null},
                         "de": {"title": "Kochen", "description": "Kulinarische Meisterwerke erschaffen.", "level": null},
-                        "uk": {"title": "Готування", "description": "Створення кулінарних шедеврів.", "level": null},
+                        "uk": {"title": "Кулінарія", "description": "Створення кулінарних шедеврів.", "level": null},
                         "ru": {"title": "Кулинария", "description": "Создаю кулинарные шедевры.", "level": null}
                     }
                 }
