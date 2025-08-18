@@ -63,8 +63,8 @@
                 {
                     "id": 4,
                     "dateStart": {"year": 2022, "month": 1},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "img": "images/icons/yii-seeklogo.png",
+                    "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
                     "percentage": 85,
                     "locales": {
@@ -77,8 +77,8 @@
                 {
                     "id": 5,
                     "dateStart": {"year": 2022, "month": 1},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "img": "images/icons/zend-framework-seeklogo.png",
+                    "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
                     "percentage": 85,
                     "locales": {
@@ -92,7 +92,7 @@
                     "id": 6,
                     "dateStart": {"year": 2023, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIcon": "fa-brands fa-linux",
                     "fallbackFaIconColor": null,
                     "percentage": 40,
                     "locales": {
@@ -155,7 +155,7 @@
                     "id": 3,
                     "dateStart": {"year": 2013, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIcon": "fa-brands fa-js",
                     "fallbackFaIconColor": null,
                     "percentage": 95,
                     "locales": {
@@ -169,7 +169,7 @@
                     "id": 4,
                     "dateStart": {"year": 2024, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
                     "fallbackFaIconColor": null,
                     "percentage": 65,
                     "locales": {
