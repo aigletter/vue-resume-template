@@ -62,13 +62,7 @@
             "href": "https://www.facebook.com/aigletter"
         },
 
-        {
-            "id": "github",
-            "value": "@aigletter",
-            "valueShort": "@aigletter",
-            "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/aigletter"
-        },
+
 
         {
             "id": "linkedin",
