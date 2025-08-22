@@ -4,19 +4,19 @@
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a href='https://github.com/aigletter'>Yurii Orlyk</a></strong>",
+            "credits": "Designed by <strong>Yurii Orlyk</strong>",
             "role": "Web developer"
         },
         "de": {
-            "credits": "Entworfen von <strong><a href='https://github.com/aigletter'>Yurii Orlyk</a></strong>",
+            "credits": "Entworfen von <strong>Yurii Orlyk</strong>",
             "role": "Webentwickler"
         },
         "uk": {
-            "credits": "Розроблено <strong><a href='https://github.com/aigletter'>Yurii Orlyk</a></strong>",
+            "credits": "Розроблено <strong>Yurii Orlyk</strong>",
             "role": "Веброзробник"
         },
         "ru": {
-            "credits": "Разработано <strong><a href='https://github.com/aigletter'>Yurii Orlyk</a></strong>",
+            "credits": "Разработано <strong>Yurii Orlyk</strong>",
             "role": "Веб-разработчик"
         }
     },
@@ -61,8 +61,6 @@
             "faIcon": "fa-brands fa-facebook",
             "href": "https://www.facebook.com/aigletter"
         },
-
-
 
         {
             "id": "linkedin",
