@@ -36,27 +36,6 @@ const props = defineProps({
     }
 })
 
-/*fetch(import.meta.env.VITE_API_URL + '/api/send', {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-  }
-});*/
-const host = import.meta.env.VITE_API_URL;
-const url = host + '/api/send';
-const success = await fetch(url, {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-  },
-  body: JSON.stringify({
-    name: 'Some name',
-    email: 'example@gmail.com',
-    subject: 'Some subject',
-    message: 'Some message'
-  }),
-});
-
 /** @type {Function} */
 const setSpinnerEnabled = inject("setSpinnerEnabled")
 
@@ -159,6 +138,7 @@ const _submit = async () => {
         message: message.value
       }),
     });
+    console.log(success);
     apiResponse.value = {success: success}
 
     scrollToTopOfCurrentSection()
