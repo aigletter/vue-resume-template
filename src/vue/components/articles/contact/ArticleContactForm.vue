@@ -36,6 +36,27 @@ const props = defineProps({
     }
 })
 
+/*fetch(import.meta.env.VITE_API_URL + '/api/send', {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+  }
+});*/
+const host = import.meta.env.VITE_API_URL;
+const url = host + '/api/send';
+const success = await fetch(url, {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    name: 'Some name',
+    email: 'example@gmail.com',
+    subject: 'Some subject',
+    message: 'Some message'
+  }),
+});
+
 /** @type {Function} */
 const setSpinnerEnabled = inject("setSpinnerEnabled")
 
@@ -119,7 +140,25 @@ const _validate = () => {
 const _submit = async () => {
     setSpinnerEnabled && setSpinnerEnabled(true, localizeFromStrings('sending_message'))
 
-    const success = await emails.sendContact(name.value, email.value, subject.value, message.value)
+    //const success = await emails.sendContact(name.value, email.value, subject.value, message.value)
+    const host = import.meta.env.VITE_API_URL;
+    const url = host + '/api/send';
+    const success = await fetch(url, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        name: name.value,
+        //from_name: name.value,
+        email: email.value,
+        //from_email: email.value,
+        subject: subject.value,
+        //custom_source: utils.getAbsoluteLocation(),
+        //custom_source_name: "Vue Resume",
+        message: message.value
+      }),
+    });
     apiResponse.value = {success: success}
 
     scrollToTopOfCurrentSection()
