@@ -3,10 +3,10 @@
         <div class="nav-sidebar-footer-language-picker-wrapper">
             <LanguagePicker :shrink="shrink"/>
         </div>
-        <div v-if="!shrink"
+<!--        <div v-if="!shrink"
              class="nav-sidebar-footer-credits">
             <span v-html="credits"/>
-        </div>
+        </div>-->
     </div>
 </template>
 
