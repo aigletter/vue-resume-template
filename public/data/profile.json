@@ -1,22 +1,22 @@
 {
-    "name": "Yurii Orlyk",
+    "name": "{{PROFILE_NAME}}",
     "profilePictureUrl": "images/pictures/avatar.jpg",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong>Yurii Orlyk</strong>",
+            "credits": "Designed by <strong>{{PROFILE_NAME}}</strong>",
             "role": "Web developer"
         },
         "de": {
-            "credits": "Entworfen von <strong>Yurii Orlyk</strong>",
+            "credits": "Entworfen von <strong>{{PROFILE_NAME}}</strong>",
             "role": "Webentwickler"
         },
         "uk": {
-            "credits": "Розроблено <strong>Yurii Orlyk</strong>",
+            "credits": "Розроблено <strong>{{PROFILE_NAME}}</strong>",
             "role": "Веброзробник"
         },
         "ru": {
-            "credits": "Разработано <strong>Yurii Orlyk</strong>",
+            "credits": "Разработано <strong>{{PROFILE_NAME}}</strong>",
             "role": "Веб-разработчик"
         }
     },
@@ -28,54 +28,54 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "85095 Denkendorf, Germany",
-                    "valueShort": "Denkendorf – DE"
+                    "value": "{{PROFILE_ADDRESS_EN}}",
+                    "valueShort": "{{PROFILE_ADDRESS_SHORT_EN}}"
                 },
                 "de": {
-                    "value": "85095 Denkendorf, Deutsch",
-                    "valueShort": "Denkendorf – DE"
+                    "value": "{{PROFILE_ADDRESS_DE}}",
+                    "valueShort": "{{PROFILE_ADDRESS_SHORT_DE}}"
                 },
                 "uk": {
-                    "value": "85095 Денкендорф, Німеччина",
-                    "valueShort": "Денкендорф – DE"
+                    "value": "{{PROFILE_ADDRESS_UK}}",
+                    "valueShort": "{{PROFILE_ADDRESS_SHORT_UK}}"
                 },
                 "ru": {
-                    "value": "85095 Денкендорф, Германия",
-                    "valueShort": "Денкендорф – DE"
+                    "value": "{{PROFILE_ADDRESS_RU}}",
+                    "valueShort": "{{PROFILE_ADDRESS_SHORT_RU}}"
                 }
             }
         },
 
         {
             "id": "email",
-            "value": "aigletter@gmail.com",
-            "valueShort": "aigletter@gmail.com",
+            "value": "{{PROFILE_EMAIL}}",
+            "valueShort": "{{PROFILE_EMAIL}}",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:aigletter@gmail.com"
+            "href": "mailto:{{PROFILE_EMAIL}}"
         },
 
         {
             "id": "facebook",
-            "value": "Yurii Orlyk",
-            "valueShort": "Yurii O.",
+            "value": "{{PROFILE_FACEBOOK_NAME}}",
+            "valueShort": "{{FACEBOOK_FACEBOOK_NAME_SHORT",
             "faIcon": "fa-brands fa-facebook",
-            "href": "https://www.facebook.com/aigletter"
+            "href": "{{PROFILE_FACEBOOK_URL}}"
         },
 
         {
             "id": "linkedin",
-            "value": "@aigletter",
-            "valueShort": "@aigletter",
+            "value": "{{PROFILE_LINKEDIN_NAME}}",
+            "valueShort": "{{PROFILE_LINKEDIN_NAME_SHORT",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://www.linkedin.com/in/yurii-orlyk"
+            "href": "{{PROFILE_LINKEDIN_URL"
         },
 
         {
             "id": "phone",
-            "value": "(+49) 0160 98532116",
-            "valueShort": "0160 98532116",
+            "value": "{{PROFILE_PHONE}}",
+            "valueShort": "{{PROFILE_PHONE_SHORT}}",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:(+49) 0160 98532116"
+            "href": "tel:{{PROFILE_PHONE}}"
         }
     ]
 }

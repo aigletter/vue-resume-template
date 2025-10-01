@@ -35,6 +35,7 @@ const _load = async () => {
     strings.value = new Locales(jStrings)
 
     const jProfile = await _loadJson("/profile.json")
+    const replaced = _replace(jProfile)
     profile.value = new Profile(jProfile)
 
     const jSections = await _loadJson("/sections.json")
@@ -43,6 +44,36 @@ const _load = async () => {
     _parseSectionsAndCategories(jSections['sections'], jCategories['categories'])
     _validateSectionsAndCategories()
     await _loadSectionJsonFiles()
+}
+
+const _replaceString = (str) => {
+  const regex = /\{\{(.+?)\}\}/;
+  const match = str.match(regex);
+
+  if (match) {
+    const key = match[1].trim();
+    const envKey = 'VITE_' + key;
+    const replacement = import.meta.env[envKey] || "";
+    return str.replace(match[0], replacement);
+  }
+
+  return str;
+}
+
+const _replaceRecursive = (item) => {
+  for (let prop in item) {
+    if (typeof item[prop] === 'object') {
+      item[prop] = _replaceRecursive(item[prop]);
+    } else if (typeof item[prop] === 'string') {
+      item[prop] = _replaceString(item[prop]);
+    }
+  }
+  return item;
+}
+
+const _replace = (json) => {
+  console.log(json);
+  return _replaceRecursive(json);
 }
 
 const _parseSectionsAndCategories = (sectionsList, categoriesList) => {
